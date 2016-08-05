@@ -1,0 +1,40 @@
+_repo: Science--amp--Education--Essays_7150
+_version: 0.0.1
+alternative_title: 'Science and Education: Essays'
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: Collected Essays Volume III.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Priestley, Joseph, 1733-1804'
+- !lcsh 'Education'
+- !lcc 'Q'
+- !lcsh 'Science -- Study and teaching'
+- GITenberg
+tableOfContents: 'Joseph Priestley (1874) -- On the educational value of the natural
+  history sciences (1854) -- Emancipation: black and white (1865) -- A liberal education;
+  and where to find it (1868) -- Scientific education: notes of an after-dinner speech
+  (1869) -- Science and culture (1880) -- On science and art in relation to education
+  (1882) -- Universities: actual and ideal (1874) -- Address on university education
+  (1876) -- On the study of biology (1876) -- On elementary instruction in physiology
+  (1877) -- On medical education (1870) -- The state and the medical profession (1884)
+  -- The connection of the biological sciences with medicine (1881) -- The school
+  boards: what they can do, and what they may do (1870) -- Technical education (1877)
+  -- Address on behalf of the National association for the promotion of technical
+  education (1887).'
+title: 'Science & Education: Essays'
+url: http://www.gutenberg.org/ebooks/7150
